@@ -1,6 +1,6 @@
 # Colourise
 
-Pure Luau terminal colouring library inspired by [chalk](https://www.npmjs.com/package/chalk).
+Luau ANSI terminal colouring library inspired by [chalk](https://www.npmjs.com/package/chalk).
 
 ## Examples
 
